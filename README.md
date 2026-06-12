@@ -13,4 +13,5 @@ Currently focused on:
 📍 Saudi Arabia
 
 LinkedIn: linkedin.com/in/yahya-al-malallah-ba5004190/
+
 Email: Yahyamalallah22@gmail.com
