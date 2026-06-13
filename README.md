@@ -1,95 +1,87 @@
 # Hi, I'm Yahya Al Malallah 👋
 
-### AI Engineer | Machine Learning Engineer
+### AI Engineer | Machine Learning | Generative AI | Data Analytics
 
-M.S. Computer Science @ KAUST  
+M.S. Computer Science @ KAUST
 B.S. Computer Science @ University of Arizona
 
-Building intelligent solutions through data and AI to transform information into actionable insights and real-world impact.
+I build AI-powered systems and data-driven solutions that transform information into actionable insights, intelligent applications, and decision-support tools.
+
+📍 Saudi Arabia
+📧 [yahyamalallah22@gmail.com](mailto:yahyamalallah22@gmail.com)
+💼 LinkedIn: linkedin.com/in/yahya-al-malallah-ba5004190
 
 ---
 
-## About Me
+## What I Do
 
-I am an AI and Machine Learning Engineer interested in building practical solutions that combine artificial intelligence, machine learning, data analytics, and software engineering.
+My interests lie at the intersection of Artificial Intelligence, Machine Learning, Data Analytics, and Software Engineering.
 
-My work focuses on turning data into actionable intelligence through AI systems, machine learning pipelines, intelligent applications, and decision-support tools.
+I enjoy building systems that help people and organizations make better decisions through data, whether that involves machine learning models, retrieval-augmented generation (RAG), analytics pipelines, dashboards, or intelligent applications.
 
-Currently, I am particularly interested in:
+### Current Focus
 
-- Machine Learning
-- Generative AI
-- Retrieval-Augmented Generation (RAG)
-- Data Analytics & Visualization
-- Intelligent Systems
-- Computer Vision
+* AI-powered decision-support systems
+* Generative AI and LLM applications
+* Retrieval-Augmented Generation (RAG)
+* Data analytics and business intelligence
+* Machine learning pipelines
+* Intelligent software systems
 
 ---
 
 ## Featured Projects
 
-### 🇸🇦 Saudi AI Career Intelligence Platform
-AI-powered labor market intelligence platform designed to analyze job trends, identify skill gaps, and support data-driven career planning in Saudi Arabia.
+### 🇸🇦 Saudi AI Career Intelligence
+
+An AI-powered labor market intelligence platform that analyzes Saudi AI, data, and technology job markets through job postings, strategy documents, analytics pipelines, and planned RAG capabilities.
+
+**Tech:** Python, NLP, Streamlit, Power BI, LangChain
+
+---
 
 ### 🧠 LLM Safety & Alignment via DPO
-Investigation of safety-capability tradeoffs in large language models using Direct Preference Optimization (DPO).
 
-### 🤖 Retrieval-Augmented Generation Pipeline
-End-to-end RAG system incorporating document processing, retrieval, response generation, and evaluation workflows.
+Explored safety-capability tradeoffs in large language models using Direct Preference Optimization (DPO) across Llama 3.1-8B and Qwen 2.5-7B models.
+
+**Tech:** PyTorch, Hugging Face, LoRA, DPO
+
+---
 
 ### 🚍 Smart Mobility Community Platform
-Web-based platform developed to support transportation accessibility and community mobility initiatives.
 
-### 📊 Advanced Data Visualization
-Interactive visual analytics and scientific visualization projects using D3.js and modern visualization techniques.
+Web-based transportation coordination platform developed during my internship at the Urban Information Lab, supporting rider-driver coordination and map-based mobility workflows.
 
-### 🎥 Video Representation Learning
-Research involving HyperNetworks, Gaussian Splatting, and neural video representations for efficient video understanding.
+**Tech:** Python, JavaScript, Leaflet.js
 
 ---
 
-## Technical Skills
+### 📊 Data Visualization Portfolio
 
-### Languages
+Interactive and scientific visualization projects involving linked views, multivariate analytics, contour extraction, and volume rendering.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### AI & Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### Tools & Platforms
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+**Tech:** D3.js, JavaScript, VTK.js
 
 ---
 
-## Current Focus
+## Selected Technologies
 
-- Building the Saudi AI Career Intelligence Platform
-- Developing AI-powered applications and intelligent workflows
-- Exploring scalable AI systems and LLM-based solutions
-- Expanding expertise in data analytics and business intelligence
+**AI & Machine Learning:** PyTorch, TensorFlow, Scikit-Learn, Transformers, LangChain
 
----
+**Data & Analytics:** Pandas, NumPy, SQL, Power BI
 
-## Connect
-
-📍 Saudi Arabia
-
-📧 **yahyamalallah22@gmail.com**
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/yahya-al-malallah-ba5004190/
+**Development:** Python, Java, JavaScript, Git, Linux
 
 ---
 
-> Building Intelligent Solutions Through Data and AI
+## Currently Building
+
+🚀 Saudi AI Career Intelligence Platform
+
+📈 Power BI labor market analytics dashboards
+
+🤖 Retrieval-Augmented AI applications
+
+---
+
+> Building practical AI and data-driven solutions that create measurable impact.
