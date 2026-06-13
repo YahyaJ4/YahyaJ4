@@ -8,8 +8,10 @@ B.S. Computer Science @ University of Arizona
 I build AI-powered systems and data-driven solutions that transform information into actionable insights, intelligent applications, and decision-support tools.
 
 📍 Saudi Arabia
+
 📧 [yahyamalallah22@gmail.com](mailto:yahyamalallah22@gmail.com)
-💼 LinkedIn: linkedin.com/in/yahya-al-malallah-ba5004190
+
+💼 [LinkedIn](https://www.linkedin.com/in/yahya-al-malallah-ba5004190/)
 
 ---
 
@@ -17,7 +19,7 @@ I build AI-powered systems and data-driven solutions that transform information 
 
 My interests lie at the intersection of Artificial Intelligence, Machine Learning, Data Analytics, and Software Engineering.
 
-I enjoy building systems that help people and organizations make better decisions through data, whether that involves machine learning models, retrieval-augmented generation (RAG), analytics pipelines, dashboards, or intelligent applications.
+I enjoy building systems that help people and organizations make better decisions through data. My work spans machine learning models, retrieval-augmented generation (RAG), analytics pipelines, intelligent applications, and AI-powered decision-support systems.
 
 ### Current Focus
 
@@ -34,7 +36,7 @@ I enjoy building systems that help people and organizations make better decision
 
 ### 🇸🇦 Saudi AI Career Intelligence
 
-An AI-powered labor market intelligence platform that analyzes Saudi AI, data, and technology job markets through job postings, strategy documents, analytics pipelines, and planned RAG capabilities.
+AI-powered labor market intelligence platform that analyzes Saudi AI, data, and technology job markets through job postings, strategy documents, analytics pipelines, and planned RAG capabilities.
 
 **Tech:** Python, NLP, Streamlit, Power BI, LangChain
 
@@ -42,7 +44,7 @@ An AI-powered labor market intelligence platform that analyzes Saudi AI, data, a
 
 ### 🧠 LLM Safety & Alignment via DPO
 
-Explored safety-capability tradeoffs in large language models using Direct Preference Optimization (DPO) across Llama 3.1-8B and Qwen 2.5-7B models.
+Investigation of safety-capability tradeoffs in large language models using Direct Preference Optimization (DPO) across Llama 3.1-8B and Qwen 2.5-7B.
 
 **Tech:** PyTorch, Hugging Face, LoRA, DPO
 
@@ -66,11 +68,30 @@ Interactive and scientific visualization projects involving linked views, multiv
 
 ## Selected Technologies
 
-**AI & Machine Learning:** PyTorch, TensorFlow, Scikit-Learn, Transformers, LangChain
+### AI & Machine Learning
 
-**Data & Analytics:** Pandas, NumPy, SQL, Power BI
+* PyTorch
+* TensorFlow
+* Scikit-Learn
+* Hugging Face Transformers
+* LangChain
+* Retrieval-Augmented Generation (RAG)
 
-**Development:** Python, Java, JavaScript, Git, Linux
+### Data & Analytics
+
+* Pandas
+* NumPy
+* SQL
+* Power BI
+* Data Visualization
+
+### Development
+
+* Python
+* Java
+* JavaScript
+* Git
+* Linux
 
 ---
 
@@ -81,6 +102,17 @@ Interactive and scientific visualization projects involving linked views, multiv
 📈 Power BI labor market analytics dashboards
 
 🤖 Retrieval-Augmented AI applications
+
+---
+
+## GitHub Highlights
+
+* Applied machine learning and LLM research
+* AI safety and alignment experimentation
+* Data analytics and visualization
+* Web-based software systems
+* Decision-support applications
+* End-to-end AI project development
 
 ---
 
